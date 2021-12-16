@@ -1,3 +1,3 @@
-# TugasAkhirSem1
-Ini Tugas Akhir Semester 1
-[]Java
+# Tugas Akhir - Dasar Pemrograman
+Tugas Akhir Semester 1
+Bahasa Java
