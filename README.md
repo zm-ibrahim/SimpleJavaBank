@@ -3,6 +3,8 @@
 
 :blue_book: Bahasa  Pemrograman Java
 
-:black_circle: Dosen Pengampu : Bu Mungki Astiningrum
+:black_circle: Dosen Pengampu : 
+
+Bu Mungki Astiningrum
 
 
