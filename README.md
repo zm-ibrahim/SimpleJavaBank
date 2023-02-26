@@ -3,12 +3,11 @@
 - Tema Aplikasi     : Perbankan
 - Dosen Pengampu    : Bu Mungki Astiningrum
 - Try On Replit.co  : https://replit.com/@zm-ibrahim/SeOnejava#Main.java
-
-# Fitur - Fitur
-## Autentikasi 
+# :book: Fitur 
+## Autentikasi :key:
   - Verifikasi Rekening (Login)
   - Verifikasi Pin (Login)
- ## Admin Mode
+ ## Admin Mode :pencil:
   - Admin Menu
   - Edit Data Nasabah 
   - Lihat Data Nasabah 
@@ -41,25 +40,28 @@
   - Silver
   - Gold
   - Platinum
-
   
-# Usage
+# :memo: Usage
 ## Login
   Masukkan data yang sudah ada pada bagian awal kode (Data Nasabah)
   - Masukan Rekening
   - Masukan Pin
 ### Admin
+  Login menggunakan data Admin yang ada dibagian awal kode (Setelah data Nasabah)
+  Setelah sukses autentifikasi, anda akan masuk ke menu dan selesai. lakukan bagian admin.<br/>
   Login menggunakan data Admin yang ada dibagian awal kode (Setelah data Nasabah)<br>
   ```
   logAdmin = {{"1212001212"},{"121212"}};
   angka pertama adalah rek, kemudian password
   ```
-  
+
   <br>Setelah sukses autentifikasi, anda akan masuk ke menu admin dan dapat melakukan bagian admin.<br/>
   :warning: Penambahan Data : Hal ini masih terbatas pada jumlah yang ditentukan sesuai besar array 
 ### User
+  Data Nasabah Secara default adalah user (Terdapat dibagian awal kode)
+  Setelah sukses autentifikasi, anda akan masuk ke menu biasa.
   Data Nasabah Secara default adalah user (Terdapat dibagian awal kode)<br>
-  
+
   ```
   rekening {"8179876788", "8921231099", "8888888888", "1234567890","","","",""},
 pin {"997654", "876356", "888888", "123456","","","",""},
@@ -70,7 +72,6 @@ pin {"997654", "876356", "888888", "123456","","","",""},
 
 ## Data2 Lain
   Terdapat data seperti Kode Bank, Rekening Bank Lain, Giro, Saldo, dan lain2 Ini juga bisa dilihat diawal kode
-
 # :gear: How It Works
 ## Cakupan Materi
   - Java Dasar
@@ -82,8 +83,4 @@ pin {"997654", "876356", "888888", "123456","","","",""},
   - Input
   - Print
   - Local & Global range untuk fungsi dan variable
-
 ### Program tetap berjalan setelah user keluar untuk tetap menyimpan data <br>dengan mengulang program ke fungsi verifikasi rekening karena program belum menggunakan database
-    
-   
- 
