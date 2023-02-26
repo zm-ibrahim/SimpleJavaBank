@@ -4,11 +4,11 @@
 - Dosen Pengampu    : Bu Mungki Astiningrum
 - Try On Replit.co  : https://replit.com/@zm-ibrahim/SeOnejava#Main.java
 
-# :book: Fitur 
-## Autentikasi :key:
+# Fitur - Fitur
+## Autentikasi 
   - Verifikasi Rekening (Login)
   - Verifikasi Pin (Login)
- ## Admin Mode :pencil:
+ ## Admin Mode
   - Admin Menu
   - Edit Data Nasabah 
   - Lihat Data Nasabah 
@@ -43,7 +43,7 @@
   - Platinum
 
   
-# :memo: Usage
+# Usage
 ## Login
   Masukkan data yang sudah ada pada bagian awal kode (Data Nasabah)
   - Masukan Rekening
