@@ -2,7 +2,7 @@
  dibuat untuk memenuhi Tugas Akhir Perkuliahan Praktikum Dasar Pemrograman Semester 1
 - Tema Aplikasi     : Perbankan
 - Dosen Pengampu    : Bu Mungki Astiningrum
-- Try On Replit.co  : https://replit.com/@zm-ibrahim/SeOnejava#Main.java
+- Try On Replit : https://replit.com/@zm-ibrahim/SeOnejava#Main.java
 # :book: Fitur 
 ## Autentikasi :key:
   - Verifikasi Rekening (Login)
